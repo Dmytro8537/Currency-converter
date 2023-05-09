@@ -1,0 +1,85 @@
+
+
+.navbar-menu{
+  position: absolute;
+  width: 1152px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+
+  background: #F5F5F6;
+}
+
+
+  ul {
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем отступы*/
+    padding-left: 253px; /*убираем отступы*/
+    
+  }
+  a {
+    text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  }
+  li {
+    float:left; /*Размещаем список горизонтально для реализации меню*/
+    margin-right:5px; /*Добавляем отступ у пунктов меню*/
+  }
+
+  .navbar-words{
+    margin-top: 17px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    
+    letter-spacing: 0.06em;
+
+    color: #959BA4;
+  }
+
+
+
+
+
+ 
+
+
+
+/* .courses {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.courses > *:first-child {
+    margin-left: 0;
+}
+
+.courses > *:last-child {
+    margin-right: 0;
+}
+
+.courses > * {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.course-item {
+}
+.course-item-title {
+    font-weight: 700;
+    font-size: 18px;
+}
+.course-item-value {
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.course-item-value.top {
+    color: rgb(255, 51, 51);
+}
+
+.course-item-value.bottom {
+    color: rgb(19, 189, 61);
+} */
